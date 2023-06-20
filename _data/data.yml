@@ -1,20 +1,20 @@
-name: John Doe
+name: Carlos Andrey
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
   email: info@johndoe.com
-  github: johndoe
+  github: Andreyliveira
   linkedin: johndoe
   phone: 
   gitlab: 
-  twitter: 
+  twitter: @nndreyy
 
 languages:
+  - idiom: Brazilian
+  - idiom: Espanish
   - idiom: English
-  - idiom: Russian
-  - idiom: French
 
 education:
   - degree: MSc in Informatics
